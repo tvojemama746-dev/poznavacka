@@ -1,4 +1,4 @@
-const CACHE_VERSION = "poznavacka-v4";
+const CACHE_VERSION = "poznavacka-v5";
 const APP_SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 
