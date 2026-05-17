@@ -1,0 +1,1093 @@
+[
+  {
+    "number": 1,
+    "czech": "Břečťan",
+    "latin": [
+      "Hedera"
+    ],
+    "note": "",
+    "slug": "001-brectan"
+  },
+  {
+    "number": 2,
+    "czech": "Pryskyřník",
+    "latin": [
+      "Ranunculus"
+    ],
+    "note": "",
+    "slug": "002-pryskyrnik"
+  },
+  {
+    "number": 4,
+    "czech": "Jaterník",
+    "latin": [
+      "Hepatica"
+    ],
+    "note": "",
+    "slug": "004-jaternik"
+  },
+  {
+    "number": 5,
+    "czech": "Sasanka",
+    "latin": [
+      "Anemone"
+    ],
+    "note": "",
+    "slug": "005-sasanka"
+  },
+  {
+    "number": 6,
+    "czech": "Koniklec",
+    "latin": [
+      "Pulsatilla"
+    ],
+    "note": "",
+    "slug": "006-koniklec"
+  },
+  {
+    "number": 7,
+    "czech": "Plamének",
+    "latin": [
+      "Clematis"
+    ],
+    "note": "",
+    "slug": "007-plamenek"
+  },
+  {
+    "number": 8,
+    "czech": "Blatouch",
+    "latin": [
+      "Caltha"
+    ],
+    "note": "",
+    "slug": "008-blatouch"
+  },
+  {
+    "number": 10,
+    "czech": "Stulík",
+    "latin": [
+      "Nuphar"
+    ],
+    "note": "",
+    "slug": "010-stulik"
+  },
+  {
+    "number": 11,
+    "czech": "Leknín",
+    "latin": [
+      "Nymphaea"
+    ],
+    "note": "",
+    "slug": "011-leknin"
+  },
+  {
+    "number": 12,
+    "czech": "Rozchodník",
+    "latin": [
+      "Sedum"
+    ],
+    "note": "",
+    "slug": "012-rozchodnik"
+  },
+  {
+    "number": 13,
+    "czech": "Netřesk",
+    "latin": [
+      "Jovibarba",
+      "Sempervivum"
+    ],
+    "note": "",
+    "slug": "013-netresk"
+  },
+  {
+    "number": 14,
+    "czech": "Krvavec",
+    "latin": [
+      "Sanguisorba"
+    ],
+    "note": "",
+    "slug": "014-krvavec"
+  },
+  {
+    "number": 15,
+    "czech": "Kontryhel",
+    "latin": [
+      "Alchemilla"
+    ],
+    "note": "",
+    "slug": "015-kontryhel"
+  },
+  {
+    "number": 17,
+    "czech": "Mochna",
+    "latin": [
+      "Potentilla"
+    ],
+    "note": "",
+    "slug": "017-mochna"
+  },
+  {
+    "number": 18,
+    "czech": "Kuklík",
+    "latin": [
+      "Geum"
+    ],
+    "note": "",
+    "slug": "018-kuklik"
+  },
+  {
+    "number": 19,
+    "czech": "Jahodník",
+    "latin": [
+      "Fragaria"
+    ],
+    "note": "",
+    "slug": "019-jahodnik"
+  },
+  {
+    "number": 20,
+    "czech": "Tužebník",
+    "latin": [
+      "Filipendula"
+    ],
+    "note": "",
+    "slug": "020-tuzebnik"
+  },
+  {
+    "number": 22,
+    "czech": "Vikev",
+    "latin": [
+      "Vicia"
+    ],
+    "note": "",
+    "slug": "022-vikev"
+  },
+  {
+    "number": 23,
+    "czech": "Vlčí bob",
+    "latin": [
+      "Lupinus"
+    ],
+    "note": "",
+    "slug": "023-vlci-bob"
+  },
+  {
+    "number": 24,
+    "czech": "Jetel",
+    "latin": [
+      "Trifolium"
+    ],
+    "note": "",
+    "slug": "024-jetel"
+  },
+  {
+    "number": 26,
+    "czech": "Čičorka",
+    "latin": [
+      "Securigera"
+    ],
+    "note": "",
+    "slug": "026-cicorka"
+  },
+  {
+    "number": 28,
+    "czech": "Vrbovka",
+    "latin": [
+      "Epilobium"
+    ],
+    "note": "",
+    "slug": "028-vrbovka"
+  },
+  {
+    "number": 29,
+    "czech": "Mák",
+    "latin": [
+      "Papaver"
+    ],
+    "note": "",
+    "slug": "029-mak"
+  },
+  {
+    "number": 30,
+    "czech": "Vlaštovičník",
+    "latin": [
+      "Chelidonium"
+    ],
+    "note": "",
+    "slug": "030-vlastovicnik"
+  },
+  {
+    "number": 32,
+    "czech": "Česnáček",
+    "latin": [
+      "Alliaria"
+    ],
+    "note": "",
+    "slug": "032-cesnacek"
+  },
+  {
+    "number": 33,
+    "czech": "Křen",
+    "latin": [
+      "Armoracia"
+    ],
+    "note": "",
+    "slug": "033-kren"
+  },
+  {
+    "number": 34,
+    "czech": "Penízek",
+    "latin": [
+      "Thlaspi"
+    ],
+    "note": "",
+    "slug": "034-penizek"
+  },
+  {
+    "number": 35,
+    "czech": "Kokoška",
+    "latin": [
+      "Capsella"
+    ],
+    "note": "",
+    "slug": "035-kokoska"
+  },
+  {
+    "number": 36,
+    "czech": "Violka",
+    "latin": [
+      "Viola"
+    ],
+    "note": "",
+    "slug": "036-violka"
+  },
+  {
+    "number": 37,
+    "czech": "Třezalka",
+    "latin": [
+      "Hypericum"
+    ],
+    "note": "",
+    "slug": "037-trezalka"
+  },
+  {
+    "number": 38,
+    "czech": "Sléz",
+    "latin": [
+      "Malva"
+    ],
+    "note": "",
+    "slug": "038-slez"
+  },
+  {
+    "number": 39,
+    "czech": "Šťavel",
+    "latin": [
+      "Oxalis"
+    ],
+    "note": "",
+    "slug": "039-stavel"
+  },
+  {
+    "number": 40,
+    "czech": "Kakost",
+    "latin": [
+      "Geranium"
+    ],
+    "note": "",
+    "slug": "040-kakost"
+  },
+  {
+    "number": 41,
+    "czech": "Netýkavka",
+    "latin": [
+      "Impatiens"
+    ],
+    "note": "",
+    "slug": "041-netykavka"
+  },
+  {
+    "number": 42,
+    "czech": "Bršlice",
+    "latin": [
+      "Aegopodium"
+    ],
+    "note": "",
+    "slug": "042-brslice"
+  },
+  {
+    "number": 43,
+    "czech": "Bolševník",
+    "latin": [
+      "Heracleum"
+    ],
+    "note": "",
+    "slug": "043-bolsevnik"
+  },
+  {
+    "number": 44,
+    "czech": "Mrkev",
+    "latin": [
+      "Daucus"
+    ],
+    "note": "",
+    "slug": "044-mrkev"
+  },
+  {
+    "number": 45,
+    "czech": "Chmel",
+    "latin": [
+      "Humulus"
+    ],
+    "note": "",
+    "slug": "045-chmel"
+  },
+  {
+    "number": 46,
+    "czech": "Kopřiva",
+    "latin": [
+      "Urtica"
+    ],
+    "note": "",
+    "slug": "046-kopriva"
+  },
+  {
+    "number": 47,
+    "czech": "Pryšec",
+    "latin": [
+      "Euphorbia"
+    ],
+    "note": "",
+    "slug": "047-prysec"
+  },
+  {
+    "number": 48,
+    "czech": "Jmelí",
+    "latin": [
+      "Viscum"
+    ],
+    "note": "",
+    "slug": "048-jmeli"
+  },
+  {
+    "number": 49,
+    "czech": "Rdesno",
+    "latin": [
+      "Bistorta",
+      "Persicaria"
+    ],
+    "note": "",
+    "slug": "049-rdesno"
+  },
+  {
+    "number": 50,
+    "czech": "Šťovík",
+    "latin": [
+      "Rumex"
+    ],
+    "note": "",
+    "slug": "050-stovik"
+  },
+  {
+    "number": 51,
+    "czech": "Kohoutek",
+    "latin": [
+      "Lychnis"
+    ],
+    "note": "",
+    "slug": "051-kohoutek"
+  },
+  {
+    "number": 52,
+    "czech": "Silenka",
+    "latin": [
+      "Silene"
+    ],
+    "note": "",
+    "slug": "052-silenka"
+  },
+  {
+    "number": 53,
+    "czech": "Hvozdík",
+    "latin": [
+      "Dianthus"
+    ],
+    "note": "",
+    "slug": "053-hvozdik"
+  },
+  {
+    "number": 54,
+    "czech": "Ptačinec",
+    "latin": [
+      "Stellaria"
+    ],
+    "note": "",
+    "slug": "054-ptacinec"
+  },
+  {
+    "number": 55,
+    "czech": "Merlík",
+    "latin": [
+      "Chenopodium"
+    ],
+    "note": "",
+    "slug": "055-merlik"
+  },
+  {
+    "number": 56,
+    "czech": "Vřes",
+    "latin": [
+      "Calluna"
+    ],
+    "note": "",
+    "slug": "056-vres"
+  },
+  {
+    "number": 57,
+    "czech": "Brusnice",
+    "latin": [
+      "Vaccinium"
+    ],
+    "note": "",
+    "slug": "057-brusnice"
+  },
+  {
+    "number": 58,
+    "czech": "Prvosenka",
+    "latin": [
+      "Primula"
+    ],
+    "note": "",
+    "slug": "058-prvosenka"
+  },
+  {
+    "number": 60,
+    "czech": "Brčál",
+    "latin": [
+      "Vinca"
+    ],
+    "note": "",
+    "slug": "060-brcal"
+  },
+  {
+    "number": 61,
+    "czech": "Kopytník",
+    "latin": [
+      "Asarum"
+    ],
+    "note": "",
+    "slug": "061-kopytnik"
+  },
+  {
+    "number": 62,
+    "czech": "Opletník",
+    "latin": [
+      "Calystegia"
+    ],
+    "note": "(neplést se svlačcem)",
+    "slug": "062-opletnik"
+  },
+  {
+    "number": 63,
+    "czech": "Kostival",
+    "latin": [
+      "Symphytum"
+    ],
+    "note": "",
+    "slug": "063-kostival"
+  },
+  {
+    "number": 64,
+    "czech": "Plicník",
+    "latin": [
+      "Pulmonaria"
+    ],
+    "note": "",
+    "slug": "064-plicnik"
+  },
+  {
+    "number": 65,
+    "czech": "Pomněnka",
+    "latin": [
+      "Myosotis"
+    ],
+    "note": "",
+    "slug": "065-pomnenka"
+  },
+  {
+    "number": 66,
+    "czech": "Hadinec",
+    "latin": [
+      "Echium"
+    ],
+    "note": "",
+    "slug": "066-hadinec"
+  },
+  {
+    "number": 67,
+    "czech": "Hluchavka",
+    "latin": [
+      "Lamium"
+    ],
+    "note": "",
+    "slug": "067-hluchavka"
+  },
+  {
+    "number": 68,
+    "czech": "Mateřídouška",
+    "latin": [
+      "Thymus"
+    ],
+    "note": "",
+    "slug": "068-materidouska"
+  },
+  {
+    "number": 69,
+    "czech": "Šalvěj",
+    "latin": [
+      "Salvia"
+    ],
+    "note": "",
+    "slug": "069-salvej"
+  },
+  {
+    "number": 70,
+    "czech": "Lilek",
+    "latin": [
+      "Solanum"
+    ],
+    "note": "",
+    "slug": "070-lilek"
+  },
+  {
+    "number": 71,
+    "czech": "Rulík",
+    "latin": [
+      "Atropa"
+    ],
+    "note": "",
+    "slug": "071-rulik"
+  },
+  {
+    "number": 73,
+    "czech": "Divizna",
+    "latin": [
+      "Verbascum"
+    ],
+    "note": "",
+    "slug": "073-divizna"
+  },
+  {
+    "number": 74,
+    "czech": "Rozrazil",
+    "latin": [
+      "Veronica"
+    ],
+    "note": "",
+    "slug": "074-rozrazil"
+  },
+  {
+    "number": 75,
+    "czech": "Lnice",
+    "latin": [
+      "Linaria"
+    ],
+    "note": "",
+    "slug": "075-lnice"
+  },
+  {
+    "number": 76,
+    "czech": "Náprstník",
+    "latin": [
+      "Digitalis"
+    ],
+    "note": "",
+    "slug": "076-naprstnik"
+  },
+  {
+    "number": 77,
+    "czech": "Jitrocel",
+    "latin": [
+      "Plantago"
+    ],
+    "note": "",
+    "slug": "077-jitrocel"
+  },
+  {
+    "number": 78,
+    "czech": "Svízel",
+    "latin": [
+      "Galium"
+    ],
+    "note": "",
+    "slug": "078-svizel"
+  },
+  {
+    "number": 79,
+    "czech": "Bez",
+    "latin": [
+      "Sambucus"
+    ],
+    "note": "",
+    "slug": "079-bez"
+  },
+  {
+    "number": 81,
+    "czech": "Zvonek",
+    "latin": [
+      "Campanula"
+    ],
+    "note": "",
+    "slug": "081-zvonek"
+  },
+  {
+    "number": 82,
+    "czech": "Čekanka",
+    "latin": [
+      "Cichorium"
+    ],
+    "note": "",
+    "slug": "082-cekanka"
+  },
+  {
+    "number": 83,
+    "czech": "Kapustka",
+    "latin": [
+      "Lapsana"
+    ],
+    "note": "",
+    "slug": "083-kapustka"
+  },
+  {
+    "number": 84,
+    "czech": "Jestřábník",
+    "latin": [
+      "Hieracium"
+    ],
+    "note": "",
+    "slug": "084-jestrabnik"
+  },
+  {
+    "number": 85,
+    "czech": "Pampeliška",
+    "latin": [
+      "Taraxacum"
+    ],
+    "note": "",
+    "slug": "085-pampeliska"
+  },
+  {
+    "number": 86,
+    "czech": "Řebříček",
+    "latin": [
+      "Achillea"
+    ],
+    "note": "",
+    "slug": "086-rebricek"
+  },
+  {
+    "number": 87,
+    "czech": "Heřmánek",
+    "latin": [
+      "Matricaria"
+    ],
+    "note": "",
+    "slug": "087-hermanek"
+  },
+  {
+    "number": 88,
+    "czech": "Kopretina",
+    "latin": [
+      "Leucanthemum"
+    ],
+    "note": "",
+    "slug": "088-kopretina"
+  },
+  {
+    "number": 89,
+    "czech": "Vratič",
+    "latin": [
+      "Tanacetum"
+    ],
+    "note": "",
+    "slug": "089-vratic"
+  },
+  {
+    "number": 90,
+    "czech": "Pelyněk",
+    "latin": [
+      "Artemisia"
+    ],
+    "note": "",
+    "slug": "090-pelynek"
+  },
+  {
+    "number": 91,
+    "czech": "Sedmikráska",
+    "latin": [
+      "Bellis"
+    ],
+    "note": "",
+    "slug": "091-sedmikraska"
+  },
+  {
+    "number": 92,
+    "czech": "Podběl",
+    "latin": [
+      "Tussilago"
+    ],
+    "note": "",
+    "slug": "092-podbel"
+  },
+  {
+    "number": 93,
+    "czech": "Devětsil",
+    "latin": [
+      "Petasites"
+    ],
+    "note": "",
+    "slug": "093-devetsil"
+  },
+  {
+    "number": 94,
+    "czech": "Lopuch",
+    "latin": [
+      "Arctium"
+    ],
+    "note": "",
+    "slug": "094-lopuch"
+  },
+  {
+    "number": 95,
+    "czech": "Chrpa",
+    "latin": [
+      "Centaurea"
+    ],
+    "note": "",
+    "slug": "095-chrpa"
+  },
+  {
+    "number": 96,
+    "czech": "Pcháč",
+    "latin": [
+      "Cirsium"
+    ],
+    "note": "(neplést s bodlákem)",
+    "slug": "096-pchac"
+  },
+  {
+    "number": 97,
+    "czech": "Lilie",
+    "latin": [
+      "Lilium"
+    ],
+    "note": "",
+    "slug": "097-lilie"
+  },
+  {
+    "number": 98,
+    "czech": "Česnek",
+    "latin": [
+      "Allium"
+    ],
+    "note": "",
+    "slug": "098-cesnek"
+  },
+  {
+    "number": 99,
+    "czech": "Konvalinka",
+    "latin": [
+      "Convallaria"
+    ],
+    "note": "",
+    "slug": "099-konvalinka"
+  },
+  {
+    "number": 100,
+    "czech": "Vraní oko",
+    "latin": [
+      "Paris"
+    ],
+    "note": "",
+    "slug": "100-vrani-oko"
+  },
+  {
+    "number": 101,
+    "czech": "Sněženka",
+    "latin": [
+      "Galanthus"
+    ],
+    "note": "",
+    "slug": "101-snezenka"
+  },
+  {
+    "number": 102,
+    "czech": "Bledule",
+    "latin": [
+      "Leucojum"
+    ],
+    "note": "",
+    "slug": "102-bledule"
+  },
+  {
+    "number": 103,
+    "czech": "Kosatec",
+    "latin": [
+      "Iris"
+    ],
+    "note": "",
+    "slug": "103-kosatec"
+  },
+  {
+    "number": 104,
+    "czech": "Prstnatec",
+    "latin": [
+      "Dactylorhiza"
+    ],
+    "note": "",
+    "slug": "104-prstnatec"
+  },
+  {
+    "number": 105,
+    "czech": "Sítina",
+    "latin": [
+      "Juncus"
+    ],
+    "note": "",
+    "slug": "105-sitina"
+  },
+  {
+    "number": 106,
+    "czech": "Ostřice",
+    "latin": [
+      "Carex"
+    ],
+    "note": "",
+    "slug": "106-ostrice"
+  },
+  {
+    "number": 108,
+    "czech": "Psárka",
+    "latin": [
+      "Alopecurus"
+    ],
+    "note": "",
+    "slug": "108-psarka"
+  },
+  {
+    "number": 110,
+    "czech": "Lipnice",
+    "latin": [
+      "Poa"
+    ],
+    "note": "",
+    "slug": "110-lipnice"
+  },
+  {
+    "number": 112,
+    "czech": "Okřehek",
+    "latin": [
+      "Lemna"
+    ],
+    "note": "",
+    "slug": "112-okrehek"
+  },
+  {
+    "number": 113,
+    "czech": "Orobinec",
+    "latin": [
+      "Typha"
+    ],
+    "note": "",
+    "slug": "113-orobinec"
+  },
+  {
+    "number": 114,
+    "czech": "Rákos",
+    "latin": [
+      "Phragmites"
+    ],
+    "note": "",
+    "slug": "114-rakos"
+  },
+  {
+    "number": 115,
+    "czech": "Javor",
+    "latin": [
+      "Acer"
+    ],
+    "note": "",
+    "slug": "115-javor"
+  },
+  {
+    "number": 116,
+    "czech": "Lípa",
+    "latin": [
+      "Tilia"
+    ],
+    "note": "",
+    "slug": "116-lipa"
+  },
+  {
+    "number": 117,
+    "czech": "Buk",
+    "latin": [
+      "Fagus"
+    ],
+    "note": "",
+    "slug": "117-buk"
+  },
+  {
+    "number": 118,
+    "czech": "Habr",
+    "latin": [
+      "Carpinus"
+    ],
+    "note": "",
+    "slug": "118-habr"
+  },
+  {
+    "number": 119,
+    "czech": "Bříza",
+    "latin": [
+      "Betula"
+    ],
+    "note": "",
+    "slug": "119-briza"
+  },
+  {
+    "number": 120,
+    "czech": "Líska",
+    "latin": [
+      "Corylus"
+    ],
+    "note": "",
+    "slug": "120-liska"
+  },
+  {
+    "number": 121,
+    "czech": "Dub",
+    "latin": [
+      "Quercus"
+    ],
+    "note": "",
+    "slug": "121-dub"
+  },
+  {
+    "number": 122,
+    "czech": "Jeřáb",
+    "latin": [
+      "Sorbus"
+    ],
+    "note": "",
+    "slug": "122-jerab"
+  },
+  {
+    "number": 123,
+    "czech": "Jasan",
+    "latin": [
+      "Fraxinus"
+    ],
+    "note": "",
+    "slug": "123-jasan"
+  },
+  {
+    "number": 124,
+    "czech": "Olše",
+    "latin": [
+      "Alnus"
+    ],
+    "note": "",
+    "slug": "124-olse"
+  },
+  {
+    "number": 125,
+    "czech": "Vrba",
+    "latin": [
+      "Salix"
+    ],
+    "note": "",
+    "slug": "125-vrba"
+  },
+  {
+    "number": 126,
+    "czech": "Trnovník",
+    "latin": [
+      "Robinia"
+    ],
+    "note": "",
+    "slug": "126-trnovnik"
+  },
+  {
+    "number": 127,
+    "czech": "Topol",
+    "latin": [
+      "Populus"
+    ],
+    "note": "",
+    "slug": "127-topol"
+  },
+  {
+    "number": 128,
+    "czech": "Ořešák",
+    "latin": [
+      "Juglans"
+    ],
+    "note": "",
+    "slug": "128-oresak"
+  },
+  {
+    "number": 129,
+    "czech": "Smrk",
+    "latin": [
+      "Picea"
+    ],
+    "note": "",
+    "slug": "129-smrk"
+  },
+  {
+    "number": 130,
+    "czech": "Borovice",
+    "latin": [
+      "Pinus"
+    ],
+    "note": "",
+    "slug": "130-borovice"
+  },
+  {
+    "number": 131,
+    "czech": "Modřín",
+    "latin": [
+      "Larix"
+    ],
+    "note": "",
+    "slug": "131-modrin"
+  },
+  {
+    "number": 132,
+    "czech": "Jedle",
+    "latin": [
+      "Abies"
+    ],
+    "note": "",
+    "slug": "132-jedle"
+  },
+  {
+    "number": 133,
+    "czech": "Tis",
+    "latin": [
+      "Taxus"
+    ],
+    "note": "",
+    "slug": "133-tis"
+  },
+  {
+    "number": 134,
+    "czech": "Jalovec",
+    "latin": [
+      "Juniperus"
+    ],
+    "note": "",
+    "slug": "134-jalovec"
+  }
+]

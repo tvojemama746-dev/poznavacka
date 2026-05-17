@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <title>Ukázka HTML</title>
+</head>
+<body>
+  <h1><b>Ahoj světe</b></h1>
+
+  <label for="text">Zadej text:</label>
+  <input id="text" type="text" placeholder="například ahoj">
+  <button id="uppercaseButton" type="button">Převést na velká písmena</button>
+
+  <p>Výsledek: <span id="result" style="color: red;"></span></p>
+
+  <script>
+    const textInput = document.getElementById("text");
+    const result = document.getElementById("result");
+    const button = document.getElementById("uppercaseButton");
+
+    button.addEventListener("click", () => {
+      result.textContent = textInput.value.toUpperCase();
+    });
+  </script>
+</body>
+</html>
