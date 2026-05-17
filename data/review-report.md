@@ -1,0 +1,129 @@
+# Review report
+
+- Plants reviewed: 121
+- Final images: 363
+- PPT-backed plants: 69
+- Commons-backed plants: 52
+- Changed plants: 117
+- Botanical reference used for Czech-flora relevance: Pladias (https://pladias.cz/)
+- Commons metadata source: Wikimedia Commons API
+
+## Changed plants
+
+- 1. Břečťan: Poznávačka.pptx slide 6
+- 2. Pryskyřník: Wikimedia Commons curated species search
+- 4. Jaterník: Poznávačka.pptx slide 8
+- 5. Sasanka: Poznávačka.pptx slide 7
+- 6. Koniklec: Poznávačka.pptx slide 4
+- 7. Plamének: Poznávačka.pptx slide 10
+- 8. Blatouch: Poznávačka.pptx slide 35
+- 10. Stulík: Poznávačka.pptx slide 15
+- 11. Leknín: Poznávačka.pptx slide 9
+- 12. Rozchodník: Poznávačka.pptx slide 18
+- 13. Netřesk: Poznávačka.pptx slide 11
+- 14. Krvavec: Poznávačka.pptx slide 34
+- 15. Kontryhel: Poznávačka.pptx slide 31
+- 17. Mochna: Poznávačka.pptx slide 20
+- 18. Kuklík: Poznávačka.pptx slide 21
+- 19. Jahodník: Poznávačka.pptx slide 14
+- 20. Tužebník: Poznávačka.pptx slide 22
+- 22. Vikev: Poznávačka.pptx slide 23
+- 23. Vlčí bob: Poznávačka.pptx slide 24
+- 24. Jetel: Poznávačka.pptx slide 16
+- 26. Čičorka: Poznávačka.pptx slide 25
+- 28. Vrbovka: Poznávačka.pptx slide 26
+- 29. Mák: Poznávačka.pptx slide 12
+- 30. Vlaštovičník: Poznávačka.pptx slide 27
+- 32. Česnáček: Poznávačka.pptx slide 28
+- 33. Křen: Poznávačka.pptx slide 17
+- 34. Penízek: Poznávačka.pptx slide 5
+- 35. Kokoška: Poznávačka.pptx slide 13
+- 36. Violka: Poznávačka.pptx slide 19
+- 37. Třezalka: Poznávačka.pptx slide 29
+- 38. Sléz: Poznávačka.pptx slide 30
+- 39. Šťavel: Poznávačka.pptx slide 32
+- 40. Kakost: Poznávačka.pptx slide 33
+- 41. Netýkavka: Poznávačka.pptx slide 37
+- 42. Bršlice: Poznávačka.pptx slide 38
+- 43. Bolševník: Poznávačka.pptx slide 39
+- 44. Mrkev: Poznávačka.pptx slide 40
+- 45. Chmel: Poznávačka.pptx slide 41
+- 46. Kopřiva: Poznávačka.pptx slide 42
+- 47. Pryšec: Poznávačka.pptx slide 43
+- 48. Jmelí: Poznávačka.pptx slide 44
+- 49. Rdesno: Poznávačka.pptx slide 45
+- 50. Šťovík: Poznávačka.pptx slide 46
+- 51. Kohoutek: Poznávačka.pptx slide 47
+- 52. Silenka: Poznávačka.pptx slide 50
+- 53. Hvozdík: Poznávačka.pptx slide 48
+- 54. Ptačinec: Poznávačka.pptx slide 49
+- 55. Merlík: Poznávačka.pptx slide 51
+- 56. Vřes: Poznávačka.pptx slide 52
+- 57. Brusnice: Poznávačka.pptx slide 53
+- 58. Prvosenka: Poznávačka.pptx slide 54
+- 60. Brčál: Poznávačka.pptx slide 55
+- 61. Kopytník: Poznávačka.pptx slide 56
+- 62. Opletník: Poznávačka.pptx slide 57
+- 63. Kostival: Poznávačka.pptx slide 58
+- 64. Plicník: Poznávačka.pptx slide 59
+- 65. Pomněnka: Poznávačka.pptx slide 60
+- 66. Hadinec: Poznávačka.pptx slide 61
+- 67. Hluchavka: Poznávačka.pptx slide 62
+- 68. Mateřídouška: Poznávačka.pptx slide 63
+- 69. Šalvěj: Poznávačka.pptx slide 64
+- 70. Lilek: Poznávačka.pptx slide 65
+- 71. Rulík: Poznávačka.pptx slide 66
+- 73. Divizna: Poznávačka.pptx slide 67
+- 74. Rozrazil: Poznávačka.pptx slide 68
+- 75. Lnice: Poznávačka.pptx slide 69
+- 76. Náprstník: Poznávačka.pptx slide 70
+- 77. Jitrocel: Poznávačka.pptx slide 71
+- 78. Svízel: Poznávačka.pptx slide 72
+- 79. Bez: Poznávačka.pptx slide 73
+- 81. Zvonek: Wikimedia Commons curated species search
+- 83. Kapustka: Wikimedia Commons curated species search
+- 84. Jestřábník: Wikimedia Commons curated species search
+- 85. Pampeliška: Wikimedia Commons curated species search
+- 86. Řebříček: Wikimedia Commons curated species search
+- 87. Heřmánek: Wikimedia Commons curated species search
+- 88. Kopretina: Wikimedia Commons curated species search
+- 89. Vratič: Wikimedia Commons curated species search
+- 90. Pelyněk: Wikimedia Commons curated species search
+- 91. Sedmikráska: Wikimedia Commons curated species search
+- 92. Podběl: Wikimedia Commons curated species search
+- 93. Devětsil: Wikimedia Commons curated species search
+- 94. Lopuch: Wikimedia Commons curated species search
+- 95. Chrpa: Wikimedia Commons curated species search
+- 96. Pcháč: Wikimedia Commons curated species search
+- 97. Lilie: Wikimedia Commons curated species search
+- 98. Česnek: Wikimedia Commons curated species search
+- 99. Konvalinka: Wikimedia Commons curated species search
+- 100. Vraní oko: Wikimedia Commons curated species search
+- 101. Sněženka: Wikimedia Commons curated species search
+- 103. Kosatec: Wikimedia Commons curated species search
+- 104. Prstnatec: Wikimedia Commons curated species search
+- 105. Sítina: Wikimedia Commons curated species search
+- 106. Ostřice: Wikimedia Commons curated species search
+- 108. Psárka: Wikimedia Commons curated species search
+- 110. Lipnice: Wikimedia Commons curated species search
+- 112. Okřehek: Wikimedia Commons curated species search
+- 113. Orobinec: Wikimedia Commons curated species search
+- 114. Rákos: Wikimedia Commons curated species search
+- 115. Javor: Wikimedia Commons curated species search
+- 116. Lípa: Wikimedia Commons curated species search
+- 117. Buk: Wikimedia Commons curated species search
+- 118. Habr: Wikimedia Commons curated species search
+- 119. Bříza: Wikimedia Commons curated species search
+- 120. Líska: Wikimedia Commons curated species search
+- 122. Jeřáb: Wikimedia Commons curated species search
+- 123. Jasan: Wikimedia Commons curated species search
+- 124. Olše: Wikimedia Commons curated species search
+- 125. Vrba: Wikimedia Commons curated species search
+- 126. Trnovník: Wikimedia Commons curated species search
+- 127. Topol: Wikimedia Commons curated species search
+- 129. Smrk: Wikimedia Commons curated species search
+- 130. Borovice: Wikimedia Commons curated species search
+- 131. Modřín: Wikimedia Commons curated species search
+- 132. Jedle: Wikimedia Commons curated species search
+- 133. Tis: Wikimedia Commons curated species search
+- 134. Jalovec: Wikimedia Commons curated species search
